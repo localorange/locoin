@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  basePath: "/dying-to-meet-you",
+  basePath: "/locoin",
   output: "export",  // <=== enables static exports
   reactStrictMode: true,
   images: {
